@@ -11,7 +11,7 @@ Accuracy: Achieved an accuracy of 82.2% in predicting housing prices.
 Dataset
 The dataset used in this project is sourced from Kaggle and contains various features related to housing in California.
 
-Link to Kaggle Dataset
+https://www.kaggle.com/datasets/camnugent/california-housing-prices?resource=download
 
 Dependencies
 scikit-learn
